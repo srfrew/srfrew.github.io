@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This is the initial public site for srfrew, who is exploring Quarto.
